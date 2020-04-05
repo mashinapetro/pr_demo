@@ -1,1 +1,2 @@
 some_txt_file
+changed line
